@@ -11,6 +11,8 @@
 
 | # | Date | Event | Group | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
+| 6 | 07.03.2023 | [DockSecOps: Scan Your Image + The Big Fix](https://www.meetup.com/docker-black-forest/events/291760084/) | [Docker Black Forest Meetup Group](https://www.meetup.com/Docker-Black-Forest/) | Freiburg | Germany | Took place at Recyda GmbH, was also the speaker |
+| 5 | 11.01.2023 | [Docker + WASM = Beta](https://www.meetup.com/docker-black-forest/events/290197640/) | [Docker Black Forest Meetup Group](https://www.meetup.com/Docker-Black-Forest/) | Freiburg | Germany | Took place at Esono AG |
 | 4 | 11.10.2022 | [Hackdockerfest in Freiburg](https://www.meetup.com/docker-black-forest/events/287845505/) | [Docker Black Forest Meetup Group](https://www.meetup.com/Docker-Black-Forest/) | Freiburg | Germany | Took place at Recyda GmbH |
 | 3 | 19.08.2022 | [Docker Desktop Introduction](https://www.linkedin.com/posts/megha-kadur_docker-desktop-introduction-fr-19-aug-activity-6966266555160494080-X6Ch?utm_source=linkedin_share&utm_medium=member_desktop_web) | [Docker Black Forest Meetup Group](https://www.meetup.com/Docker-Black-Forest/) | Online | Online | Also talked about Docker Desktop |
 | 2 | 25.10.2021 | [Hackdockerfest: Security Edition](https://youtu.be/S7T2y6UjQmQ) | [Docker Switzerland Meetup Group](https://www.meetup.com/docker-switzerland/) | Online | Online | Also talked about Docker security |
