@@ -4,6 +4,7 @@
 
 | # | Date | Title | Event | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
+| 3 | 12.05.2023 | [Node.js CI/CD Pipelines with GitHub](https://github.com/aerabi/talks/blob/master/slides/Node.js%20CI_CD%20with%20GitHub.pdf) | AppDevCon | Amsterdam | Netherlands | - |
 | 2 | 01.09.2022 | [Build Your CV with Docker and GitHub Actions](https://youtu.be/DMwbXN3QKbs) | Docker Community All Hands #6 | Online | Online | Also hosted a [watching meetup](https://www.meetup.com/docker-black-forest/events/288028501/) for it and won [Docker Community Leader award](https://youtu.be/pNULIbFiWbE?t=508) |
 | 1 | 31.03.2022 | [Node.js CI/CD Pipelines](http://www.youtube.com/watch?v=yPAttw8Emlg) | Docker Community All Hands #5 | Online | Online | - |
 
