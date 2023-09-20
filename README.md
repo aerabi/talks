@@ -4,6 +4,7 @@
 
 | # | Date | Title | Event | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
+| 5 | 20.09.2023 | [How to Create New RxJS Operators](https://www.youtube.com/live/EcC8rjqt3Dw?si=SpPc-_yGcrjJG1pj&t=3725) | [WeAreDevelopers Angular Day](https://www.wearedevelopers.com/event/angular-day-september-2023) | Online | Online | Streamed on YouTube with ~120 live viewers |
 | 4 | 28.06.2023 | [Telepresence](https://github.com/aerabi/talks/blob/master/slides/Telepresence%20%40%20Atlanta.pdf) | [Docker Atlanta Meetup](https://www.meetup.com/docker-atlanta/) | Atlanta | USA | The meetup was titled [Telepresence to Accelerate K8s Development and Testing & Docker Desktop](https://www.meetup.com/docker-atlanta/events/294062692/) |
 | 3 | 12.05.2023 | [Node.js CI/CD Pipelines with GitHub](https://github.com/aerabi/talks/blob/master/slides/Node.js%20CI_CD%20with%20GitHub.pdf) | AppDevCon | Amsterdam | Netherlands | - |
 | 2 | 01.09.2022 | [Build Your CV with Docker and GitHub Actions](https://youtu.be/DMwbXN3QKbs) | Docker Community All Hands #6 | Online | Online | Also hosted a [watching meetup](https://www.meetup.com/docker-black-forest/events/288028501/) for it and won [Docker Community Leader award](https://youtu.be/pNULIbFiWbE?t=508) |
