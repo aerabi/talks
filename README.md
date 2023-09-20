@@ -14,6 +14,7 @@
 
 | # | Date | Event | Group | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
+| 7 | 21.06.2023 | [Docker Init and Docker Setup](https://www.meetup.com/docker-black-forest/events/293749060/) | [Docker Black Forest Meetup Group](https://www.meetup.com/Docker-Black-Forest/) | Freiburg | Germany | Took place at InxMail GmbH with 3 speakers, 2 of which where Docker Captains |
 | 6 | 07.03.2023 | [DockSecOps: Scan Your Image + The Big Fix](https://www.meetup.com/docker-black-forest/events/291760084/) | [Docker Black Forest Meetup Group](https://www.meetup.com/Docker-Black-Forest/) | Freiburg | Germany | Took place at Recyda GmbH, was also the speaker |
 | 5 | 11.01.2023 | [Docker + WASM = Beta](https://www.meetup.com/docker-black-forest/events/290197640/) | [Docker Black Forest Meetup Group](https://www.meetup.com/Docker-Black-Forest/) | Freiburg | Germany | Took place at Esono AG |
 | 4 | 11.10.2022 | [Hackdockerfest in Freiburg](https://www.meetup.com/docker-black-forest/events/287845505/) | [Docker Black Forest Meetup Group](https://www.meetup.com/Docker-Black-Forest/) | Freiburg | Germany | Took place at Recyda GmbH |
