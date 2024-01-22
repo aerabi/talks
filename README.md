@@ -4,6 +4,7 @@
 
 | # | Date | Title | Event | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
+| 6 | 22.01.2024 | Test in Production with Kubernetes and Telepresence [[slides](https://github.com/aerabi/talks/blob/master/slides/Telepresence%20%40%2090DaysOfDevops.pdf)] | [90DaysOfDevOps](https://youtube.com/playlist?list=PLsKoqAvws1psCnkDaTPRHaqcTLSTPDFBR&si=GhlO3cmQj8UrE73Q) | Online | Online | - |
 | 5 | 20.09.2023 | How to Create New RxJS Operators [[video](https://www.youtube.com/live/EcC8rjqt3Dw?si=SpPc-_yGcrjJG1pj&t=3725)] [[slides](https://github.com/aerabi/talks/blob/master/slides/How%20to%20Create%20New%20RxJS%20Operators.pdf)] | [WeAreDevelopers Angular Day](https://www.wearedevelopers.com/event/angular-day-september-2023) | Online | Online | Streamed on YouTube with ~500 live viewers |
 | 4 | 28.06.2023 | Telepresence [[video](https://youtu.be/djhOgAXk-kU?si=ntP91EtZjASim6j7)] [[slides](https://github.com/aerabi/talks/blob/master/slides/Telepresence%20%40%20Atlanta.pdf)] | [Docker Atlanta Meetup](https://www.meetup.com/docker-atlanta/) | Atlanta | USA | The meetup was titled [Telepresence to Accelerate K8s Development and Testing & Docker Desktop](https://www.meetup.com/docker-atlanta/events/294062692/) |
 | 3 | 12.05.2023 | Node.js CI/CD Pipelines with GitHub [[video](https://vimeo.com/850037126)] [[slides](https://github.com/aerabi/talks/blob/master/slides/Node.js%20CI_CD%20with%20GitHub.pdf)] | AppDevCon | Amsterdam | Netherlands | - |
