@@ -4,6 +4,8 @@
 
 | # | Date | Title | Event | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
+| 8 | 16.05.2024 | Create Your CV with GitHub + LaTeX | [TIL Conf](https://til-conf.netlify.app/speakers/) | Online | Online | - |
+| 7 | 10.04.2024 | Dockerizing Python Applications | [Python User Group Freiburg](https://www.meetup.com/python-user-group-freiburg/) | Freiburg | Germany | At JobRad HQ with ~30 attendees |
 | 6 | 22.01.2024 | Test in Production with Kubernetes and Telepresence [[slides](https://github.com/aerabi/talks/blob/master/slides/Telepresence%20%40%2090DaysOfDevops.pdf)] | [90DaysOfDevOps](https://youtube.com/playlist?list=PLsKoqAvws1psCnkDaTPRHaqcTLSTPDFBR&si=GhlO3cmQj8UrE73Q) | Online | Online | - |
 | 5 | 20.09.2023 | How to Create New RxJS Operators [[video](https://www.youtube.com/live/EcC8rjqt3Dw?si=SpPc-_yGcrjJG1pj&t=3725)] [[slides](https://github.com/aerabi/talks/blob/master/slides/How%20to%20Create%20New%20RxJS%20Operators.pdf)] | [WeAreDevelopers Angular Day](https://www.wearedevelopers.com/event/angular-day-september-2023) | Online | Online | Streamed on YouTube with ~500 live viewers |
 | 4 | 28.06.2023 | Telepresence [[video](https://youtu.be/djhOgAXk-kU?si=ntP91EtZjASim6j7)] [[slides](https://github.com/aerabi/talks/blob/master/slides/Telepresence%20%40%20Atlanta.pdf)] | [Docker Atlanta Meetup](https://www.meetup.com/docker-atlanta/) | Atlanta | USA | The meetup was titled [Telepresence to Accelerate K8s Development and Testing & Docker Desktop](https://www.meetup.com/docker-atlanta/events/294062692/) |
@@ -15,6 +17,7 @@
 
 | # | Date | Event | Group | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
+| 10 | 23.05.2024 | [Introduction to Docker + JobRad's Journey](https://www.meetup.com/docker-black-forest/events/300262553/) | [Docker Black Forest Meetup Group](https://www.meetup.com/Docker-Black-Forest/) | Freiburg | Germany | Took place at JobRad HQ |
 | 9 | 02.02.2024 | [Docker Debug + CI](https://www.meetup.com/docker-black-forest/events/298649748/) | [Docker Black Forest Meetup Group](https://www.meetup.com/Docker-Black-Forest/) | Freiburg | Germany | Took place at InxMail GmbH with 2 speakers, both being engineers working at Docker, one traveling from Munich 🇩🇪 and the other one from Lille 🇫🇷 |
 | 8 | 13.10.2023 | [Hackdockerfest 2023 🍺](https://www.meetup.com/docker-black-forest/events/296483825/) | [Docker Black Forest Meetup Group](https://www.meetup.com/Docker-Black-Forest/) | Freiburg | Germany | Took place at Recyda GmbH with 2 speakers |
 | 7 | 21.06.2023 | [Docker Init and Docker Setup](https://www.meetup.com/docker-black-forest/events/293749060/) | [Docker Black Forest Meetup Group](https://www.meetup.com/Docker-Black-Forest/) | Freiburg | Germany | Took place at InxMail GmbH with 3 speakers, 2 of which where Docker Captains |
