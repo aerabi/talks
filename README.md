@@ -4,7 +4,7 @@
 
 | # | Date | Title | Event | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
-| 9 | 07.10.2024 | Best Practices Developing a Web App [[slides](https://github.com/aerabi/talks/blob/master/slides/Best%20Practices%20Developing%20a%20Web%20App.pdf)] | [Python User Group Freiburg](https://www.meetup.com/python-user-group-freiburg/) | Freiburg | Germany | At JobRad HQ with ~40 attendees |
+| 9 | 07.10.2024 | Best Practices Developing a Web App [[slides](https://github.com/aerabi/talks/blob/master/slides/Best%20Practices%20Developing%20a%20Web%20App.pdf)] [[codes](codes/git-blame.sh)] | [Python User Group Freiburg](https://www.meetup.com/python-user-group-freiburg/) | Freiburg | Germany | At JobRad HQ with ~40 attendees |
 | 8 | 16.05.2024 | Create Your CV with GitHub + LaTeX | [TIL Conf](https://til-conf.netlify.app/speakers/) | Online | Online | - |
 | 7 | 10.04.2024 | Dockerizing Python Applications | [Python User Group Freiburg](https://www.meetup.com/python-user-group-freiburg/) | Freiburg | Germany | At JobRad HQ with ~30 attendees |
 | 6 | 22.01.2024 | Test in Production with Kubernetes and Telepresence [[slides](https://github.com/aerabi/talks/blob/master/slides/Telepresence%20%40%2090DaysOfDevops.pdf)] | [90DaysOfDevOps](https://youtube.com/playlist?list=PLsKoqAvws1psCnkDaTPRHaqcTLSTPDFBR&si=GhlO3cmQj8UrE73Q) | Online | Online | - |
