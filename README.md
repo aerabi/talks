@@ -4,6 +4,7 @@
 
 | # | Date | Title | Event | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
+| 10 | 09.11.2024 | How to create new RxJS Operators [[slides](https://github.com/aerabi/talks/blob/master/slides/How%20to%20Create%20New%20RxJS%20Operators.pdf)] | [DevFest Nuremberg](https://gdg.community.dev/events/details/google-gdg-nuremberg-presents-devfest-2024-2024-11-09/) | Nuremberg | Germany | - |
 | 9 | 07.10.2024 | Best Practices Developing a Web App [[slides](https://github.com/aerabi/talks/blob/master/slides/Best%20Practices%20Developing%20a%20Web%20App.pdf)] [[codes](codes/git-blame.sh)] | [Python User Group Freiburg](https://www.meetup.com/python-user-group-freiburg/) | Freiburg | Germany | At JobRad HQ with ~40 attendees |
 | 8 | 16.05.2024 | Create Your CV with GitHub + LaTeX | [TIL Conf](https://til-conf.netlify.app/speakers/) | Online | Online | - |
 | 7 | 10.04.2024 | Dockerizing Python Applications | [Python User Group Freiburg](https://www.meetup.com/python-user-group-freiburg/) | Freiburg | Germany | At JobRad HQ with ~30 attendees |
